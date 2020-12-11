@@ -1,6 +1,7 @@
 # witchcraft
 
-This is a game made using the PyGameZero module 
+This is a game made using the PyGameZero(pgzero)module
+Make sure all the files are inside one folder and you don't change the name of the files\
 ![alt text](https://i.ibb.co/wQv6vrc/pg2.png) \
 How to set up the game and play:\
 -Download the files provided and paste the given code in a python editor(Make sure you have the PyGameZero module installed!)\
